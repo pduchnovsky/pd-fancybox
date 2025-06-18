@@ -1,4 +1,4 @@
-# Fancybox 5 plugin for WordPress
+# Fancybox 6 plugin for WordPress
 
 Nothing fancy (eh ?)
 
