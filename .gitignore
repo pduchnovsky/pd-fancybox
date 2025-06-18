@@ -1,0 +1,17 @@
+# Generic ignores - OS, IDE, and build tools
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+node_modules/
+dist/
+build/
+coverage/
+tmp/
+temp/
