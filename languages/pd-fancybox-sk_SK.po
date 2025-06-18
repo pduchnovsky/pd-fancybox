@@ -1,0 +1,67 @@
+# Slovak translation for Fancybox
+# Copyright (C) 2023 Peter Duchnovsky
+# This file is distributed under the same license as the Fancybox plugin.
+# Peter Duchnovsky <peter@duchnovsky.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Fancybox 1.2.9\n"
+"Report-Msgid-Bugs-To: https://github.com/pduchnovsky/pd-fancybox\n"
+"Last-Translator: Peter Duchnovsky <peter@duchnovsky.com>\n"
+"Language-Team: Slovak <https://translate.wordpress.org/locale/sk/default/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-26 10:00+0000\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pd-fancybox.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;ngettext:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pd-fancybox.php:21
+msgid "Fancybox Settings"
+msgstr "Nastavenia Fancyboxu"
+
+#: pd-fancybox.php:22
+msgid "Fancybox"
+msgstr "Fancybox"
+
+#: pd-fancybox.php:79
+msgid "Use these options to enable or disable Fancybox for different content types."
+msgstr "Použite tieto možnosti na povolenie alebo zakázanie Fancyboxu pre rôzne typy obsahu."
+
+#: pd-fancybox.php:90
+msgid "Enable For:"
+msgstr "Povoliť pre:"
+
+#: pd-fancybox.php:93
+msgid "Images (standalone, not in galleries)"
+msgstr "Obrázky (samostatné, nie v galériách)"
+
+#: pd-fancybox.php:97
+msgid "Galleries (Gutenberg blocks)"
+msgstr "Galérie (Gutenberg bloky)"
+
+#: pd-fancybox.php:101
+msgid "PDF Links"
+msgstr "Odkazy na PDF"
+
+#: pd-fancybox.php:105
+msgid "Inline Content (data-fancybox links)"
+msgstr "Inline obsah (data-fancybox odkazy)"
+
+#: pd-fancybox.php:111
+msgid "Inline Content Behavior:"
+msgstr "Správanie inline obsahu:"
+
+#: pd-fancybox.php:114
+msgid "Allow closing inline content by clicking on it"
+msgstr "Povoliť zatvorenie inline obsahu kliknutím naň"
+
+#: pd-fancybox-init.js:4
+msgid "Fancybox: Settings not loaded or disabled. Fancybox might not function as expected."
+msgstr "Fancybox: Nastavenia neboli načítané alebo sú zakázané. Fancybox nemusí fungovať podľa očakávania."
